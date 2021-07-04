@@ -1,4 +1,4 @@
-# navigators_demo_flutter
+# Static Navigation with Route Map_demo_flutter
 
 A new Flutter project.
 
